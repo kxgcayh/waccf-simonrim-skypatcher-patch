@@ -18,7 +18,7 @@ WACCF 2.11.4 ships SkyPatcher configs that run after all plugins load, so they b
 
 ## What the Patch Does
 
-Config files in a `zz WACCF Simonrim Restore` folder run after WACCF's and put those fields back: {'name': 748, 'enchant': 8, 'gourmet effect': 7, 'charge': 6}. WACCF's stats, weights, values and keywords stay. The installer offers one option per mod.
+Config files in a `zz WACCF Simonrim Restore` folder run after WACCF's and put those fields back: {'name': 748, 'enchant': 8, 'gourmet effect': 7, 'charge': 9}. WACCF's stats, weights, values and keywords stay. The installer offers one option per mod.
 
 ## Install
 

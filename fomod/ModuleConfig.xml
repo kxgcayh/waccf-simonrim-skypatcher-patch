@@ -6,7 +6,7 @@
         <group name="Patches for the mods you have (detected)" type="SelectAny">
           <plugins order="Explicit">
             <plugin name="Artificer">
-              <description>Restores Artificer values over WACCF. 16 config lines.</description>
+              <description>Restores Artificer values over WACCF. 19 config lines.</description>
               <files><folder source="Artificer" destination="" priority="0"/></files>
               <typeDescriptor><dependencyType><defaultType name="NotUsable"/><patterns><pattern><dependencies operator="And"><fileDependency file="Weapons Armor Clothing &amp; Clutter Fixes.esp" state="Active"/><fileDependency file="Artificer.esp" state="Active"/></dependencies><type name="Recommended"/></pattern></patterns></dependencyType></typeDescriptor>
             </plugin>
