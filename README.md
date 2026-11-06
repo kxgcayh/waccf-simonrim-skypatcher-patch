@@ -30,7 +30,7 @@ Not standalone: `tools/overhaul-patches/restore.py` in the workspace generates t
 
 ## Verification Status
 
-Check `SkyPatcher.log` for the configs, then read values in game. See the workspace report for the result.
+Checked 2026-11-07: all 756 armor and weapon lines hold in game (`verify.py live`), and 5 of the 7 Gourmet lines were read in game with no Restore Stamina left.
 
 ## Credits and Permissions
 
