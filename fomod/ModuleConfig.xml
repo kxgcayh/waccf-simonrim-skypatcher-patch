@@ -1,0 +1,33 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
+  <moduleName>WACCF Simonrim SkyPatcher Patch</moduleName>
+  <installSteps order="Explicit">
+    <installStep name="Patches">
+      <optionalFileGroups order="Explicit">
+        <group name="Patches for the mods you have (detected)" type="SelectAny">
+          <plugins order="Explicit">
+            <plugin name="Artificer">
+              <description>Restores Artificer values over WACCF. 16 config lines.</description>
+              <files><folder source="Artificer" destination="" priority="0"/></files>
+              <typeDescriptor><dependencyType><defaultType name="NotUsable"/><patterns><pattern><dependencies operator="And"><fileDependency file="Weapons Armor Clothing &amp; Clutter Fixes.esp" state="Active"/><fileDependency file="Artificer.esp" state="Active"/></dependencies><type name="Recommended"/></pattern></patterns></dependencyType></typeDescriptor>
+            </plugin>
+            <plugin name="Gourmet">
+              <description>Restores Gourmet values over WACCF. 7 config lines.</description>
+              <files><folder source="Gourmet" destination="" priority="0"/></files>
+              <typeDescriptor><dependencyType><defaultType name="NotUsable"/><patterns><pattern><dependencies operator="And"><fileDependency file="Weapons Armor Clothing &amp; Clutter Fixes.esp" state="Active"/><fileDependency file="Gourmet.esp" state="Active"/></dependencies><type name="Recommended"/></pattern></patterns></dependencyType></typeDescriptor>
+            </plugin>
+            <plugin name="Mysticism">
+              <description>Restores Mysticism values over WACCF. 1 config lines.</description>
+              <files><folder source="Mysticism" destination="" priority="0"/></files>
+              <typeDescriptor><dependencyType><defaultType name="NotUsable"/><patterns><pattern><dependencies operator="And"><fileDependency file="Weapons Armor Clothing &amp; Clutter Fixes.esp" state="Active"/><fileDependency file="MysticismMagic.esp" state="Active"/></dependencies><type name="Recommended"/></pattern></patterns></dependencyType></typeDescriptor>
+            </plugin>
+            <plugin name="Thaumaturgy">
+              <description>Restores Thaumaturgy values over WACCF. 740 config lines.</description>
+              <files><folder source="Thaumaturgy" destination="" priority="0"/></files>
+              <typeDescriptor><dependencyType><defaultType name="NotUsable"/><patterns><pattern><dependencies operator="And"><fileDependency file="Weapons Armor Clothing &amp; Clutter Fixes.esp" state="Active"/><fileDependency file="Thaumaturgy.esp" state="Active"/></dependencies><type name="Recommended"/></pattern></patterns></dependencyType></typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+      </optionalFileGroups>
+    </installStep>
+  </installSteps>
+</config>

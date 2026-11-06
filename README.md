@@ -18,11 +18,11 @@ WACCF 2.11.4 ships SkyPatcher configs that run after all plugins load, so they b
 
 ## What the Patch Does
 
-`Restore.ini` files in a `zz WACCF Simonrim Restore` folder run after WACCF's and put those fields back: {'name': 748, 'enchant': 8, 'gourmet effect': 7, 'charge': 9}. WACCF's stats, weights, values and keywords stay.
+Config files in a `zz WACCF Simonrim Restore` folder run after WACCF's and put those fields back: {'name': 748, 'enchant': 8, 'gourmet effect': 7, 'charge': 6}. WACCF's stats, weights, values and keywords stay. The installer offers one option per mod.
 
 ## Install
 
-Copy `SKSE/` into its own MO2 mod. No plugin, so no LOOT step.
+Run the FOMOD `dist/WACCF Simonrim SkyPatcher Patch.zip` in your mod manager. No plugin, so no LOOT step.
 
 ## Build from Source
 

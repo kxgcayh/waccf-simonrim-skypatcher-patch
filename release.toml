@@ -3,11 +3,9 @@ display_name = "WACCF Simonrim SkyPatcher Patch"
 version = "0.1.0"
 description = "Restores Simonrim enchants, charges and names, and Gourmet effects, over WACCF's SkyPatcher configs. No plugin. Personal load-order patch."
 
-# archive path = source path (relative to this folder)
+# archive path = source path (relative to this folder); dist/ is written by tools/overhaul-patches/restore.py
 [files]
-"SKSE/Plugins/SkyPatcher/armor/zz WACCF Simonrim Restore/Restore.ini" = "SKSE/Plugins/SkyPatcher/armor/zz WACCF Simonrim Restore/Restore.ini"
-"SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore.ini" = "SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore.ini"
-"SKSE/Plugins/SkyPatcher/ingestible/zz WACCF Simonrim Restore/Restore.ini" = "SKSE/Plugins/SkyPatcher/ingestible/zz WACCF Simonrim Restore/Restore.ini"
+"WACCF Simonrim SkyPatcher Patch.zip" = "dist/WACCF Simonrim SkyPatcher Patch.zip"
 
 [nexus]
 mod_category = 84  # Nexus mod category: Patches; written as category= in the github .meta
