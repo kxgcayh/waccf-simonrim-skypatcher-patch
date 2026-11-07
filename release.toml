@@ -6,6 +6,8 @@ description = "Restores Simonrim enchants, charges and names, and Gourmet effect
 # archive path = source path (relative to this folder); dist/ is written by tools/overhaul-patches/restore.py
 [files]
 "WACCF Simonrim SkyPatcher Patch.zip" = "dist/WACCF Simonrim SkyPatcher Patch.zip"
+"LICENSE" = "LICENSE"
+"THIRD-PARTY-NOTICES.txt" = "THIRD-PARTY-NOTICES.txt"
 
 [nexus]
 mod_category = 84  # Nexus mod category: Patches; written as category= in the github .meta

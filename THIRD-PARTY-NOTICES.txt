@@ -1,0 +1,6 @@
+WACCF Simonrim SkyPatcher Patch - Third-party notices
+
+WACCF Simonrim SkyPatcher Patch is licensed MIT (see LICENSE), which covers its scripts and documents only.
+The plugin and any other files in this package are derived from the mods below and stay under their authors' permissions.
+
+Holds no data from other mods except form references and item names. Permissions not checked; check them before any release.
