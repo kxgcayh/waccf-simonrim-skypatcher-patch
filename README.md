@@ -10,7 +10,11 @@ SkyPatcher configs only: no plugin, no assets.
 
 - [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 - [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) 2.11.4
-- [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), Artificer, Mysticism, Gourmet, and kryptopyr's Patch Hub
+- [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138)
+- [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/99619)
+- [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876)
+- [kryptopyr's Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/19518)
 
 ## The Problem
 
