@@ -5,7 +5,14 @@ description = "Restores Simonrim enchants, charges and names, and Gourmet effect
 
 # archive path = source path (relative to this folder); dist/ is written by tools/overhaul-patches/restore.py
 [files]
-"WACCF Simonrim SkyPatcher Patch.zip" = "dist/WACCF Simonrim SkyPatcher Patch.zip"
+"fomod/info.xml" = "dist/flat/fomod/info.xml"
+"fomod/ModuleConfig.xml" = "dist/flat/fomod/ModuleConfig.xml"
+"Artificer/SKSE/Plugins/SkyPatcher/armor/zz WACCF Simonrim Restore/Restore Artificer.ini" = "dist/flat/Artificer/SKSE/Plugins/SkyPatcher/armor/zz WACCF Simonrim Restore/Restore Artificer.ini"
+"Artificer/SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore Artificer.ini" = "dist/flat/Artificer/SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore Artificer.ini"
+"Gourmet/SKSE/Plugins/SkyPatcher/ingestible/zz WACCF Simonrim Restore/Restore Gourmet.ini" = "dist/flat/Gourmet/SKSE/Plugins/SkyPatcher/ingestible/zz WACCF Simonrim Restore/Restore Gourmet.ini"
+"Mysticism/SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore Mysticism.ini" = "dist/flat/Mysticism/SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore Mysticism.ini"
+"Thaumaturgy/SKSE/Plugins/SkyPatcher/armor/zz WACCF Simonrim Restore/Restore Thaumaturgy.ini" = "dist/flat/Thaumaturgy/SKSE/Plugins/SkyPatcher/armor/zz WACCF Simonrim Restore/Restore Thaumaturgy.ini"
+"Thaumaturgy/SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore Thaumaturgy.ini" = "dist/flat/Thaumaturgy/SKSE/Plugins/SkyPatcher/weapon/zz WACCF Simonrim Restore/Restore Thaumaturgy.ini"
 "LICENSE" = "LICENSE"
 "THIRD-PARTY-NOTICES.txt" = "THIRD-PARTY-NOTICES.txt"
 
