@@ -18,15 +18,15 @@ WACCF 2.11.4 ships SkyPatcher configs that run after all plugins load, so they b
 
 ## What the Patch Does
 
-Config files in a `zz WACCF Simonrim Restore` folder run after WACCF's and put those fields back: {'name': 748, 'enchant': 8, 'gourmet effect': 7, 'charge': 9}. WACCF's stats, weights, values and keywords stay. The installer offers one option per mod.
+Config files in a `zz WACCF Simonrim Restore` folder run after WACCF's and put those fields back: 748 item names, 8 enchantments, 9 enchantment charges and 7 Gourmet effects. WACCF's stats, weights, values and keywords stay. The installer offers one option per mod.
 
 ## Install
 
-Run the FOMOD `dist/WACCF Simonrim SkyPatcher Patch.zip` in your mod manager. No plugin, so no LOOT step.
+Install the release zip from the GitHub release in Mod Organizer 2. It is the FOMOD itself, so MO2 runs the installer, which offers one option per mod. Keep the `.zip.meta` file next to the zip so MO2 shows the version and the repository link. No plugin, so no LOOT step.
 
 ## Build from Source
 
-Not standalone: `tools/overhaul-patches/restore.py` in the workspace generates the configs from the live load order.
+Not standalone: `tools/overhaul-patches/restore.py` in the workspace generates the configs from the live load order. The configs are tracked in this repository, and the release archive is built from them with the workspace `tools/mod-release/release.py`. `restore.py` also writes the FOMOD zip to `dist/WACCF Simonrim SkyPatcher Patch.zip`.
 
 ## Verification Status
 
