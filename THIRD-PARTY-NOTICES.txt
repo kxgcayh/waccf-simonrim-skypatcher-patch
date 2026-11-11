@@ -1,6 +1,14 @@
 WACCF Simonrim SkyPatcher Patch - Third-party notices
 
 WACCF Simonrim SkyPatcher Patch is licensed MIT (see LICENSE), which covers its scripts and documents only.
-The plugin and any other files in this package are derived from the mods below and stay under their authors' permissions.
+The plugins and any other files in this package are derived from the mods below and stay under their authors' permissions.
+Checked on 2026-11-11 against each mod's Nexus permission block and author notes.
 
-Holds no data from other mods except form references and item names. Permissions not checked; check them before any release.
+- Weapons Armor Clothing and Clutter Fixes (kryptopyr, https://www.nexusmods.com/skyrimspecialedition/mods/18994): Compatibility patches and record edits (keywords, stats and the like) are allowed. Its assets and files may not be redistributed or sold. [allowed]
+- Thaumaturgy - An Enchanting Overhaul (SimonMagus, https://www.nexusmods.com/skyrimspecialedition/mods/57138): Open: patches, ports and derivative work need no permission. The author asks you to consider releasing derivatives open. [allowed]
+- Artificer - An Artifact Overhaul (SimonMagus, https://www.nexusmods.com/skyrimspecialedition/mods/99619): Upload, modification, conversion and asset use are allowed. Not in sold files. [allowed]
+- Mysticism - A Magic Overhaul (SimonMagus, https://www.nexusmods.com/skyrimspecialedition/mods/27839): Open: patches, ports and derivative work need no permission. The author asks you to consider releasing derivatives open. [allowed]
+- Gourmet - A Cooking Overhaul (SimonMagus, https://www.nexusmods.com/skyrimspecialedition/mods/96876): Upload, modification, conversion and asset use are allowed. Not in sold files. [allowed]
+- SkyPatcher (Zzyxzz, https://www.nexusmods.com/skyrimspecialedition/mods/106659): No permission is granted. This patch only requires SkyPatcher and ships config files in its format, no SkyPatcher code or assets. [requirement only]
+
+All sources allow this use. Credit the authors above, keep the patch free, and do not sell or paywall the zip.
