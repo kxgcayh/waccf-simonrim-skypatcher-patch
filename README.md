@@ -2,7 +2,7 @@
 
 **Version 0.1.0**
 
-Restores Simonrim enchantments, enchantment charges and item names, and Gourmet's drink effects, where WACCF's SkyPatcher configs overwrite them at runtime. Private: generated for the Overhaul 1.2 load order and not published.
+Restores Simonrim enchantments, enchantment charges and item names, and Gourmet's drink effects, where WACCF's SkyPatcher configs overwrite them at runtime. Generated from one load order (Overhaul 1.2), so the item lists are what that load order needed. The installer offers an option for a mod only when WACCF and that mod are active.
 
 SkyPatcher configs only: no plugin, no assets.
 
@@ -26,11 +26,11 @@ Install the release zip from the GitHub release in Mod Organizer 2. It is the FO
 
 ## Build from Source
 
-Not standalone: `tools/overhaul-patches/restore.py` in the workspace generates the configs from the live load order. The configs are tracked in this repository, and the release archive is built from them with the workspace `tools/mod-release/release.py`. `restore.py` also writes the FOMOD zip to `dist/WACCF Simonrim SkyPatcher Patch.zip`.
+Nothing to build here: the files in this repository are the release, and the release zip is these files with `fomod/` at its root. The configs were generated from the author's own load order with scripts that are not published.
 
 ## Verification Status
 
-Checked 2026-11-07: all 756 armor and weapon lines hold in game (`verify.py live`), and 5 of the 7 Gourmet lines were read in game with no Restore Stamina left.
+Checked 2026-11-07: all 756 armor and weapon lines hold in game (checked with a script that reads the live game), and 5 of the 7 Gourmet lines were read in game with no Restore Stamina left.
 
 ## Credits and Permissions
 
