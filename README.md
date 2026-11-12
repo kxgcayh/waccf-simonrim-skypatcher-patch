@@ -40,18 +40,16 @@ Checked 2026-11-07: all 756 armor and weapon lines hold in game (checked with a 
 
 Holds no data from other mods except form references and item names.
 
-Checked on 2026-11-11 against each mod's Nexus permission block and author notes, not its description or readme. MIT (see LICENSE) covers this repository's scripts and documents only. The plugins are derived from the mods below and stay under their authors' terms.
+Credit goes to the authors of the mods below. Permission status is based on each mod's Nexus page permissions, read on 2026-11-11. MIT (see LICENSE) covers this repository's scripts and documents only.
 
-| Mod | Author | What the Nexus page says | Status |
-|---|---|---|---|
-| [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | kryptopyr | Compatibility patches and record edits (keywords, stats and the like) are allowed. Its assets and files may not be redistributed or sold. | allowed |
-| [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138) | SimonMagus | Open: patches, ports and derivative work need no permission. The author asks you to consider releasing derivatives open. | allowed |
-| [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/99619) | SimonMagus | Upload, modification, conversion and asset use are allowed. Not in sold files. | allowed |
-| [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839) | SimonMagus | Open: patches, ports and derivative work need no permission. The author asks you to consider releasing derivatives open. | allowed |
-| [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) | SimonMagus | Upload, modification, conversion and asset use are allowed. Not in sold files. | allowed |
-| [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659) | Zzyxzz | No permission is granted. This patch only requires SkyPatcher and ships config files in its format, no SkyPatcher code or assets. | requirement only |
+- [Weapons Armor Clothing and Clutter Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/18994) by kryptopyr: allowed based on the Nexus page permissions
+- [Thaumaturgy - An Enchanting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/57138) by SimonMagus: allowed based on the Nexus page permissions
+- [Artificer - An Artifact Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/99619) by SimonMagus: allowed based on the Nexus page permissions
+- [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839) by SimonMagus: allowed based on the Nexus page permissions
+- [Gourmet - A Cooking Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/96876) by SimonMagus: allowed based on the Nexus page permissions
+- [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659) by Zzyxzz: requirement only; nothing of it is shipped
 
-All sources allow this use. Credit the authors above, keep the patch free, and do not sell or paywall the zip.
+Credit the authors above, keep the patch free, and do not sell or paywall the zip.
 
 ## More mods
 
