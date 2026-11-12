@@ -1,7 +1,7 @@
 name = "waccf-simonrim-skypatcher-patch"
 display_name = "WACCF Simonrim SkyPatcher Patch"
 version = "0.1.0"
-description = "Restores Simonrim enchants, charges and names, and Gourmet effects, over WACCF's SkyPatcher configs. No plugin. Personal load-order patch."
+description = "Restores Simonrim enchants, charges and names, and Gourmet effects, over WACCF's SkyPatcher configs. No plugin."
 
 # archive path = source path (relative to this folder); dist/ is written by tools/overhaul-patches/restore.py
 [files]
