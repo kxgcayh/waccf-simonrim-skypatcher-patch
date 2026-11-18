@@ -1,7 +1,7 @@
 WACCF Simonrim SkyPatcher Patch - Third-party notices
 
 WACCF Simonrim SkyPatcher Patch is licensed MIT (see LICENSE), which covers its scripts and documents only.
-The plugins and any other files in this package are derived from the mods below and stay under their authors' permissions.
+The config files in this package are derived from the mods below and stay under their authors' permissions.
 Checked on 2026-11-11 against each mod's Nexus permission block and author notes.
 
 - Weapons Armor Clothing and Clutter Fixes (kryptopyr, https://www.nexusmods.com/skyrimspecialedition/mods/18994): Compatibility patches and record edits (keywords, stats and the like) are allowed. Its assets and files may not be redistributed or sold. [allowed]
