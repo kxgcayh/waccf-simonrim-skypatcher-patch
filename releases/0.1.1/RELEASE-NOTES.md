@@ -1,1 +1,0 @@
-Comment-only release: the generator is named in the config headers without its old local path, the third-party notices carry the permission check of 2026-11-11, and the installer links the repository. No setting changed.
