@@ -2,7 +2,7 @@
 
 **Version 0.1.1**
 
-Restores Simonrim enchantments, enchantment charges and item names, and Gourmet's drink effects, where WACCF's SkyPatcher configs overwrite them at runtime. Generated from one load order (Overhaul 1.2), so the item lists are what that load order needed. The installer offers an option for a mod only when WACCF and that mod are active.
+Restores Simonrim enchantments, enchantment charges and item names, and Gourmet's drink effects, where WACCF's SkyPatcher configs overwrite them at runtime. Generated from the author's load order, so the item lists are what that load order needed. The installer offers an option for a mod only when WACCF and that mod are active.
 
 SkyPatcher configs only: no plugin, no assets.
 
