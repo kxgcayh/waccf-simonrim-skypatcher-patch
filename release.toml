@@ -3,7 +3,7 @@ display_name = "WACCF Simonrim SkyPatcher Patch"
 version = "0.1.0"
 description = "Restores Simonrim enchants, charges and names, and Gourmet effects, over WACCF's SkyPatcher configs. No plugin."
 
-# archive path = source path (relative to this folder); dist/ is written by tools/overhaul-patches/restore.py
+# archive path = source path (relative to this folder); dist/ is written by the author's local patch generator (restore.py)
 [files]
 "fomod/info.xml" = "fomod/info.xml"
 "fomod/ModuleConfig.xml" = "fomod/ModuleConfig.xml"
